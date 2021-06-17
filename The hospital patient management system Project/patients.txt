@@ -1,0 +1,9 @@
+Waleed Ali#M#1102020#6201980#High blood pressure#AlBireh#A+
+Rami Jamal#M#01012021#5121989#Ear infection#Nablus#O-
+Mustafa Ahmed#M#1102020#10101990#Diabetes#Ramallah#AB
+Bara#M#10092020#11031980#Fever#AlBireh#B-
+Alma Mukhles#F#23112020#19071998#Flu#Ramallah#A+
+baraa ahmed#M#10092020#11031980#Fever#AlBireh#B-
+Alma#F#1102020#6201980#High blood pressure#AlBireh#A+
+alma mukhles#F#2212019#1012000#Ear infection#Nablus#B+
+1111111#F#11112020#9122000#fever#Ramallah#A+

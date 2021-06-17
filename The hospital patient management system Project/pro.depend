@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606180537 source:c:\users\hp\desktop\university\first_semester 2021\data structure\pro\pro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
