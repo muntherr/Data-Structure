@@ -1,0 +1,7 @@
+aa: a, aa, aaa / asyn * aantonym
+aaa: a1, a2, a3 / asyn * aantonym
+bb: b1, b2, b3 / bsyn * bantonym
+big: large, great, huge / much * small
+old: advanced in age, aged, antique / ancient * new
+zest: delight/ enthusiasm * straight
+zzz: z1, z2, z3 / zsyn * zant
